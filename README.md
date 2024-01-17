@@ -13,4 +13,5 @@ Applied the dataset for validation to perform object detection in a video
 
 Following is the Object tracking implemented on the model using YOLOV8 using byte-track algorithm.
 
-[Watch the video](https://www.youtube.com/watch?v=TzT4iBKDABs)
+[![Watch the video](https://img.youtube.com/vi/TzT4iBKDABs/maxresdefault.jpg)](https://www.youtube.com/watch?v=TzT4iBKDABs)
+
