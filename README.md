@@ -10,3 +10,7 @@ Following were the validation results
 Applied the dataset for validation to perform object detection in a video
 
 [![Alt text](https://img.youtube.com/vi/Lt3W5zVpXso/0.jpg)](https://youtu.be/Lt3W5zVpXso?si=mXuJP7e-cEAh-WUh)
+
+Following is the Object tracking implemented on the model using YOLOV8 using byte-track algorithm.
+
+[Watch the video](https://www.youtube.com/watch?v=TzT4iBKDABs)
